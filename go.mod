@@ -1,4 +1,4 @@
-module github.com/CocaineCong/eslogrus
+module github.com/joshua-deng/eslogrus
 
 go 1.20
 
